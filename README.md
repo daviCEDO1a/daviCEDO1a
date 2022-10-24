@@ -7,7 +7,7 @@
 	<div class="principal">
 		<h2 class="titulo-centralizado">fliping...</h2>
  
-		<p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+		<p>Para você começar a tentar o flip você ja tem que saber o ollie, ou ter uma ideia <strong>o flip</strong> é uma trick mais iniciante, se conciste em arrastar o pé na diagoonal dando um flick no concave ou no nose fazendo-o girar.</p>
 
 		<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
