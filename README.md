@@ -10,6 +10,8 @@
 <html lang="pt-br">
 <!--<![endif]-->
 <head>
+
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 	<title>Privatização do ensino público no Brasil e movimentos de resistência dos estudantes | DESidades</title>
